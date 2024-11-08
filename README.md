@@ -17,9 +17,9 @@ This is a simple todo app that uses Node JS and Express JS.
         d. Listen to a port
 
     3. Create a controller for our todo app(todoController.js)
-        i. Create a function to get all the todos (todoController())
-        ii. Import todoController function into script.js and pass app instance as an argument
-        iii. Create a route to get all the todos
+        a. Create a function to get all the todos (todoController())
+        b. Import todoController function into script.js and pass app instance as an argument
+        c. Create a route to get all the todos
 
     4. Create a view for our todo app(views/todo.ejs)
     
