@@ -2,7 +2,7 @@ export const todoController = (app) =>{
 
     app.get("/todo", (req, res) =>{
 
-        res.send('This is a todo app')
+        res.render("todo.ejs")
 
     })
 
