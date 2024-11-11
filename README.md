@@ -22,3 +22,6 @@ This is a simple todo app that uses Node JS and Express JS.
         c. Create a route to get all the todos
 
     4. Create a view for our todo app(views/todo.ejs)
+    
+    5. Create dummy data for our todo app on the server
+        i. Parse the dummy data to the view
