@@ -27,3 +27,4 @@ This is a simple todo app that uses Node JS and Express JS.
         a. Parse the dummy data to the view
     
     6. Create a POST request to add a new todo
+    7. Create a DELETE request to delete a todo
